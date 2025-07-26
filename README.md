@@ -18,6 +18,9 @@ npm i -g @nestjs/cli
 docker-compose up -d
 ```
 
+
+
+
 5. Clonar el archivo ```.env.template``` y renombrarlo a ```.env```
 
 6. Llenar las variables de entorno en el archivo ```.env```
